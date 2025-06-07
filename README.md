@@ -1,6 +1,6 @@
-# 🚀 Sanath's Project Showcase
+# 🚀  Project Showcase
 
-Welcome! I'm **Sanath Swaroop Mulky**, a **Data Scientist & Software Engineer** based in Santa Clara, CA. 
+Hi! I'm **Sanath Swaroop Mulky**, a **Data Scientist & Software Engineer** based in Santa Clara, CA. 
 
 ---
 

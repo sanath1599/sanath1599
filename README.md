@@ -1,91 +1,57 @@
-<!-- Hi there 👋 Welcome to my GitHub! -->
+# 🚀 Sanath's Project Showcase
 
-# 👋 Hi, I'm Sanath Swaroop Mulky
-
-**Data Scientist | Backend Developer | Blockchain Enthusiast**  
-Santa Clara, CA, US  
-[LinkedIn](https://www.linkedin.com/in/sanathswaroop/) • [Blog](https://blog.sanathswaroop.com/)
+Welcome! I'm **Sanath Swaroop Mulky**, a **Data Scientist & Software Engineer** based in Santa Clara, CA. 
 
 ---
 
-## 🎓 Education
+### CANT.study
 
-- **Masters in Data Science**  
-  Rochester Institute of Technology (May 2025)
-- **PG Diploma in Software Development**  
-  IIIT, Bangalore (Dec 2021)
-- **Bachelors in Information Technology**  
-  JNTUH (May 2020)
+A context-aware, AI-powered note-taking platform
 
----
+* 🚀 **Launch on Product Hunt:** [CANT (Context Aware AI Note Taker)](https://www.producthunt.com/products/cant)
+* **Highlights:** Real-time transcription, summarization, & Sankey diagram analytics.
+* **Tech Stack:** Node.js, FastAPI, MongoDB, RabbitMQ, React, Tailwind CSS.
+* **CI/CD & Observability:** Playwright E2E tests, Grafana dashboards, Langfuse logging.
 
-## 🛠️ Technical Skills
+### c0py.me
 
-- **Languages:** Python, JavaScript, TypeScript, Golang, Java
-- **Web:** Node.js, FastAPI, React
-- **Infra & Cloud:** Docker, Kubernetes, Terraform, AWS (S3, EC2, Lambda, Bedrock, RDS, EKS)
-- **DB & Storage:** Postgres, MongoDB, Redis, IPFS
-- **APIs & Protocols:** REST API, GraphQL, WebSockets
-- **Monitoring:** Grafana, Prometheus, Elasticsearch, Logstash
-- **AI & Machine Learning:** LLM, RAG, Agents, Reinforcement Learning, NLP, PyTorch, Hugging Face Transformers, OpenCV, OpenAI, LLamaIndex
-- **Messaging & Event Streaming:** RabbitMQ, Kafka
+A local-first, network-based pastebin
 
----
+* 🚀 **Launch on Product Hunt:** [c0py.me — The easiest way to share text](https://www.producthunt.com/products/c0py-me)
+* **Highlights:** Instant text sharing over Wi-Fi, auto code highlighting, adaptive dark/light UI.
+* **Tech Stack:** Express, WebSockets, IndexedDB, Tailwind CSS.
 
-## 💼 Work Experience
+## 🔨 Side Projects
 
-**Backend Developer @ StaTwig**  
-*Hyderabad, India | Apr 2022 – Aug 2023*
-- Led a 3-member team for an open-source blockchain-based supply chain management system using Node.js, MongoDB, Redis, and Hyperledger Fabric.
-- Migrated a MERN application to a multi-tenant architecture and enabled SSO with Okta, reducing deployment time by 82%.
-- Migrated backend to NodeJS-based microservice architecture with load balancing for scalability.
-- Implemented secure key-sharding for custodian wallets.
-- Set up automated CI/CD pipelines with Jenkins, Docker, Kubernetes.
-- Enhanced observability with unified Grafana dashboards and integrated Logstash/Elasticsearch for logging.
+### CryptoSense
 
-**Blockchain Associate @ NPCI**  
-*Hyderabad, India | Nov 2020 – Apr 2022*
-- Contributed to the development of the tokenized digital Indian Rupee (eINR) serving 4M+ customers.
-- Implemented advanced security hardening based on VAPT reports.
-- Developed a block-archival mechanism by forking Hyperledger Fabric, reducing storage costs by 80%.
-- Set up inter-service communication using RabbitMQ, reducing transaction time by 20%.
-- Built a role-based access control (RBAC) system for banking applications.
+AI-powered cryptocurrency analysis CLI tool
 
----
+* 🔗 **Repo:** [CryptoSense-AI-Powered-Cryptocurrency-Analysis-Tool](https://github.com/sanath1599/CryptoSense-AI-Powered-Cryptocurrency-Analysis-Tool)
+* **Description:** CLI tool with real-time market data, sentiment analysis, & AI-driven buy/sell recommendations.
+* **Tech Stack:** Node.js, Ollama (LLaMA), market & news scrapers, blessed UI.
 
-## 🚀 Projects
+### CipherQR
 
-- **[CANT.study](#)**: Context-aware AI note-taker that listens to lectures, understands real-time content, and generates structured summaries.  
-  *React, TypeScript, MongoDB, Whisper, RabbitMQ, Docker*
-- **[Motiv8.hr](#)**: AI ATS with mock interviews, enabling companies to run real-time interviews and get instant feedback for faster hiring.  
-  *TypeScript, MongoDB, vLLM, WebSockets, Docker*
-- **[CipherQR](#)**: Python tool to encode data within QR codes, break into smaller pieces, and reconstruct for data retrieval.  
-  *Python, OpenCV, Numpy*
-- **RL Meal Planner:** Advanced meal planner powered by RL techniques (Q-learning), personalizing recommendations for taste and calorie needs.  
-  *Python, CLI-based*
+Python-based QR code ciphering tool
+
+* 🔗 **Repo:** [CipherQR](https://github.com/sanath1599/CipherQR)
+* **Description:** Encode data within QR codes, fragment & border images, then reconstruct to retrieve information.
+* **Tech Stack:** Python, Pillow, qrcode, image processing.
+
+## 🛠️ Technical Toolbox
+
+| **Languages**                           | **Frameworks & Tools**                     | **Cloud & DevOps**                 |
+| --------------------------------------- | ------------------------------------------ | ---------------------------------- |
+| Python, JavaScript/TypeScript, Go, Java | Node.js, React, Express, FastAPI, RabbitMQ | AWS, GCP, Docker, Kubernetes       |
+| Bash, SQL, C++                          | Playwright, Langfuse, Grafana, ELK         | GitHub Actions, Jenkins, Terraform |
 
 ---
 
-## 🏆 Recognitions
 
-- 🥇 **AngelHack Global Demo Day 2018 Winner** – BuildUp (AR & VR Platform for Construction)
-- 🥇 **HACK.COMS Winner** – CANT.study (Context-Aware Note Taker for Hard of Hearing Students)
-- 🥇 **Smart India Hackathon 2019 SW Edition Winner** – PayRec (MSME Grievance Redressal Platform)
-- 🥇 **Mozilla Firefox Hackathon 2016 Winner** – IRTTC (Intelligent Real-time Temperature Control)
-- 🥇 **EduHacks 2020 Winner** – EduSign (Digital Document Authenticity Management)
+## 🤝 Connect
 
----
+* ✉️ [Email](mailto:sanathswaroop.mulky@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/sanathswaroop/)
 
-## 🎻 Outside Tech
-
-- 🚴 Cycling enthusiast
-- 🎻 Violin player
-
----
-
-## 📫 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/sanathswaroop/)
-- [Blog](https://blog.sanathswaroop.com/)
-
----
+> "Building impactful projects with code and creativity."

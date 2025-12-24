@@ -15,15 +15,34 @@ I am a Data Scientist and Software Engineer based in Santa Clara, CA, with a str
 
 ## Signature Projects  
 
-### CANT.study  
-Context-aware, AI-powered note-taking platform  
-- Features: Live transcription, intelligent summarization, Sankey-diagram analytics  
-- See it on Product Hunt: https://www.producthunt.com/products/cant  
 
-### c0py.me  
-Local-first, network pastebin over Wi-Fi  
-- Highlights: Instant text sharing, adaptive dark/light UI, syntax highlighting  
-- See it on Product Hunt: https://www.producthunt.com/products/c0py-me  
+### c0py.me
+
+**Local-first Peer-to-Peer File Sharing Platform**
+
+**c0py.me** is a privacy-focused, peer-to-peer file sharing web application designed to enable fast and direct transfers between devices without relying on cloud infrastructure or centralized servers.
+
+#### Key Features
+
+- **Peer-to-Peer File Sharing**  
+  Direct file transfers between users with no cloud uploads or server dependencies.
+
+- **Flexible Room Modes**  
+  Choose from open global rooms, local Wi-Fi rooms, or private rooms with unique codes.
+
+- **Real-Time Local Network Discovery**  
+  Automatically detects peers on the same network for seamless connection setup.
+
+- **User Control & Transparency**  
+  Recipients can accept or reject incoming files. Detailed logs are available on both ends.
+
+- **No Accounts Required**  
+  Simple and frictionless — just open the site and start sharing.
+
+
+#### Support the Launch 
+
+Product Hunt: https://www.producthunt.com/products/c0py-me
 
 ---
 
@@ -51,6 +70,3 @@ Local-first, network pastebin over Wi-Fi
 
 ---
 
-## GitHub at a Glance  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanath1599&show_icons=true&theme=radical)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanath1599&layout=compact)  
